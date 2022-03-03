@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"html/template"
 
-	"github.com/go-echarts/go-echarts/v2/datasets"
-	"github.com/go-echarts/go-echarts/v2/opts"
-	"github.com/go-echarts/go-echarts/v2/render"
+	"github.com/ethfoo/go-echarts/v2/datasets"
+	"github.com/ethfoo/go-echarts/v2/opts"
+	"github.com/ethfoo/go-echarts/v2/render"
 )
 
 // GlobalOpts sets the Global options for charts.
